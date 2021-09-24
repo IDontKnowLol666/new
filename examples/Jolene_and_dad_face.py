@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 import datetime
 import pygame.mixer as mix
-from voice import engine
 from message import message
 # This is a super simple (but slow) example of running face recognition on live video from your webcam.
 # There's a second example that's a little more complicated but runs faster.
