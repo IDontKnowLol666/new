@@ -62,7 +62,7 @@ known_face_names = [
     "Mom",
     "Christine"
 ]
-
+print("Encoding Done!")
 while True:
     # Grab a single frame of video
     ret, frame = video_capture.read()
